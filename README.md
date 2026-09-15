@@ -6,6 +6,7 @@ employee-etl-pipeline/
 ├── main.py                   # ETL pipeline script
 └── README.md                 # Project documentation
 
+
 # Employee ETL Pipeline
 
 A Python ETL (Extract, Transform, Load) project that processes employee data from CSV files, transforms it into useful summaries, and saves the results into clean output files.  
