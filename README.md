@@ -1,3 +1,11 @@
+employee-etl-pipeline/
+│
+├── Employee 1000x.csv        # Raw dataset
+├── job_roles.csv             # Output summary of job roles
+├── Job_count.py              # Script for job role aggregation
+├── main.py                   # ETL pipeline script
+└── README.md                 # Project documentation
+
 # Employee ETL Pipeline
 
 A Python ETL (Extract, Transform, Load) project that processes employee data from CSV files, transforms it into useful summaries, and saves the results into clean output files.  
@@ -28,4 +36,6 @@ The data is used solely for educational and demonstration purposes.
 - PyCharm IDE for development  
 
 ---
+
+
 
