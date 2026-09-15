@@ -1,11 +1,9 @@
-Employee-etl-pipeline/
-
-├── Employee 1000x.csv        # Raw dataset                                                               
+employee-etl-pipeline/
+├── Employee 1000x.csv        # Raw dataset
 ├── job_roles.csv             # Output summary of job roles
 ├── Job_count.py              # Script for job role aggregation
 ├── main.py                   # ETL pipeline script
 └── README.md                 # Project documentation
-
 
 # Employee ETL Pipeline
 
