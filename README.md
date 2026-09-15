@@ -1,5 +1,5 @@
-employee-etl-pipeline/
-│
+Employee-etl-pipeline/
+
 ├── Employee 1000x.csv        # Raw dataset                                                               
 ├── job_roles.csv             # Output summary of job roles
 ├── Job_count.py              # Script for job role aggregation
