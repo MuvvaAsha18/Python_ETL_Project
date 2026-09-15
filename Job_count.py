@@ -15,6 +15,8 @@ for emp in employees:
 with open("job_roles.csv", "w", newline="") as f:
     writer = csv.writer(f)
     writer.writerow(["Job Title", "Count"])
+    for role, count in job_counts.items():
+        writer.writerow([role, count])
 
 
 for role, count in job_counts.items():
