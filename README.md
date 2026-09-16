@@ -3,6 +3,8 @@
 A Python ETL (Extract, Transform, Load) project that processes employee data from CSV files, transforms it into useful summaries, and saves the results into clean output files.  
 This project demonstrates core data engineering concepts using Python.
 
+**Project Structure**
+
 employee-etl-pipeline/
 ├── Employee 1000x.csv        # Raw dataset
 ├── job_roles.csv             # Output summary of job roles
